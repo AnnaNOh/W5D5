@@ -1,1 +1,10 @@
 /* PHASE 5: Cats */
+.content-header {
+  position: relative;
+  height: 200px;
+  border-bottom: 1px solid #ccc;
+  background: url(https://raw.githubusercontent.com/appacademy/curriculum/master/html-css/micro-projects/css-friends/css-friends-05/solution/images/cats.jpg?token=ABg2xsnONAkIpo0CQKBPjdzoZX30ewgCks5aBh0bwA%3D%3D);
+  background-size: cover;
+  /*display: block;*/
+  width: inherit;
+}
